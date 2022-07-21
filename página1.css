@@ -1,0 +1,14 @@
+
+body{
+    background-image: url('fundo2.jpg') center center no-repeat fixed;
+    width: 100vw;
+    height: 100vh;
+    display: block;
+    background-position: 30% 45%;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+    
+    
